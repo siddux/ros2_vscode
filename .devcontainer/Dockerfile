@@ -1,4 +1,4 @@
-FROM siddux/ros2:galactic-cuda-dev
+FROM siddux/ros2:foxy-cuda-dev
 
 # ** [Optional] Uncomment this section to install additional packages. **
 #
